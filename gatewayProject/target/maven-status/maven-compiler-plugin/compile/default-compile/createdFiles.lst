@@ -1,0 +1,8 @@
+com\fitness\gatewayProject\user\WebClientConfig.class
+com\fitness\gatewayProject\user\UserService.class
+com\fitness\gatewayProject\GatewayProjectApplication.class
+com\fitness\gatewayProject\user\RegisterRequest.class
+com\fitness\gatewayProject\user\UserResponse.class
+com\fitness\gatewayProject\KeycloakUserSyncFilter.class
+com\fitness\gatewayProject\SecurityConfig.class
+com\fitness\gatewayProject\ApiGatewayConfiguration.class
